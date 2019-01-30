@@ -1,5 +1,4 @@
-# python_projects
+prerequisites
 
+Import the required module for text to speech conversion
 
-
-hello! im teja and this is my repository
